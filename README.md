@@ -3,8 +3,11 @@ Student-Stress-Analysis:
 
 NOVELTY:
 1. Hybrid Ensemble Decision System:a hybrid ensemble system combining multiple ML models for robust stress prediction
+
 2.Pseudo-Neural Approach: We structured the system similar to a neural decision pipeline where multiple models act like neurons contributing to the final decision
+
 3. Emotion-Aware Stress Detection: We integrated sentiment analysis with structured student data to create a context-aware stress prediction system
+
 4.Model Comparison & Optimization: comparative analysis of multiple machine learning models to identify the most accurate predictor for student stress
 
 
